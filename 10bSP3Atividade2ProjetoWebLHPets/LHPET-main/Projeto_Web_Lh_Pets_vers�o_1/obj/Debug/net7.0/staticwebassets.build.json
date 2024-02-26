@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "pYYFSQ0XjLbIxjw4ayHlEAYVzTwPNGVMDXMx1jc4deI=",
+  "Source": "Projeto_Web_Lh_Pets_vers�o_1",
+  "BasePath": "_content/Projeto_Web_Lh_Pets_vers�o_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web_Lh_Pets_vers�o_1\\wwwroot",
+      "Source": "Projeto_Web_Lh_Pets_vers�o_1",
+      "ContentRoot": "C:\\Users\\lipih\\Downloads\\Projeto_Web_Lh_Pets_vers�o_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_vers�o_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lipih\\Downloads\\Projeto_Web_Lh_Pets_vers�o_1\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web_Lh_Pets_vers�o_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lipih\\Downloads\\Projeto_Web_Lh_Pets_vers�o_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_vers�o_1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
